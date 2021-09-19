@@ -2,6 +2,6 @@
 title: Lerntagebuch
 ---
 
-## Willkommen zu meinem Lerntagebuch
+## Sali zämä
 
-Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
+Hier gibt es nix zu sehen, ausser meine Versuche, das gelernte aus dem Kurs **Bibliotheks- und Archivinformatik** festzuhalten. Viel Spass.
