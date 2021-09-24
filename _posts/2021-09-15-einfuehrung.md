@@ -3,6 +3,8 @@ title: "Einführungsartikel"
 date: 2021-09-19
 ---
 
+Guten Tag und Herzlich Willkommen in meinem ersten Beitrag!
+
 **Woher komme ich überhaupt?**
 
 Mein beruflicher Werdegang hat 2012 in der Kantonsbibliothek Uri Stiftung gestartet und nach der umfangreichen Ausbildung und erstem Kontakt mit Bibliothekssystemen war ich in der Medienbearbeitung an der ZHB Luzern tätig. Der tägliche Umgang mit Aleph in allen Modulen (Circulation, Acquisition und Cataloging) hat mir grosses Knowhow gebracht. Die Anwendung in Aleph war teilweise anstrengend, da das GUI in meinen Anfängeraugen veraltet war. Die Arbeit hat mit der Zeit dennoch Spass gemacht und so konnte ich viel Erfahrung als Anwenderin sammeln und durch den Kontakt zum Bibliotheksinformatiker, welcher alles anfängerfreundlich erklären konnte, verstand ich schonmal, was ein GUI ist.
