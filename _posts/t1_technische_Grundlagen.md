@@ -1,5 +1,5 @@
 ---
-title: "Tag 1: Erstkontakt mit BAIN"
+title: "Tag 1: Erstkontakt mit BAIN - Technische Grundlagen"
 date: 2021-09-26
 ---
 
