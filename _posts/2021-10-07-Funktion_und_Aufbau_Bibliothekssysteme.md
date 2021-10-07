@@ -15,6 +15,7 @@ Ziel der beiden Formate ist es also, dass Daten standardisiert werden und sie di
 Nach dem Dozenteninput hat die ganze Klasse die beiden Formate anhand von zwei Beispielen verglichen. Ich habe für mich persönlich eine kleine Tabelle erstellt:
 ![bainMARCDC](https://user-images.githubusercontent.com/91015615/136242716-0012d6aa-74a8-4af8-b479-4c9c7f88d72a.jpg)
 
+
 Koha<br>
 Koha ist ein Open Source Bibliothekssystem mit Gemeinschaftscharakter. Die Gesellschaft ist sehr ideell geprägt und beschreibt sich selber so «Koha is a fully featured, scalable library management system. Development is sponsored by libraries of varying types and sizes, volunteers, and support companies worldwide» [^4]. Um im Modul «BAIN» Einblicke in Bibliothekssysteme zu erhalten, wird Koha auf die VDI geladen. Auch dies geschieht wieder per Shell und konnte ich ohne Unterbruch bewerkstelligen. Ich bin gewissermassen bisschen stolz, dass ich ohne die Hilfe der Dozenten diesen Schritt geschafft habe. Aufgrund technischer (oder Anwender-)Probleme hat das nämlich nicht jeder geschnallt :P
 
