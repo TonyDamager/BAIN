@@ -1,5 +1,5 @@
 ---
-title: "Tag 3: Funktion und Aufbau von Bibliothekssystemen - mein eigenes Bibliothekssystem!"
+title: "Tag 3: Mein eigenes Bibliothekssystem!"
 date: 2021-10-17
 ---
 
