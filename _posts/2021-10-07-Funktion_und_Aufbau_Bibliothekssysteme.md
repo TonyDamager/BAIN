@@ -1,5 +1,5 @@
 ---
-title: "Tag 2: Langsam wirds bibiothekarisch"
+title: "Tag 2: Langsam wirds bibliothekarisch"
 date: 2021-10-07
 ---
 
