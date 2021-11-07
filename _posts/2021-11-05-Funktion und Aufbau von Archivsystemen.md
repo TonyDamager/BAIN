@@ -10,7 +10,9 @@ Als Gastreferentinnen waren Selina Hodel und Charlotte Frauchiger aus dem Team d
 
 Alma wurde in der Schweiz im Zuge eines schweizweiten Projektes eingeführt und ist im Winter 2020 live gegangen. Die Swiss Library Service Platform ist als AG aufgebaut und vereint 475 Bibliotheken. SLSP hat die «alten» Bibliotheksverbünde wie Nebis, IDS oder IDS Basel/Bern abgelöst und vereinigt nun die Medien der Verbundsbibliotheken im Katalog «swisscovery» der Firma Primo. 
 Alma ist cloudbasiert, genauso wie Koha. Ex Libris ist Anbieter von Alma. Die cloudbasierte Technologie ermöglicht es Ex Libris, Anpassungen direkt selber und vergleichsweise unkompliziert bei den Bibliotheken einzuspielen -> weil cloudbasiert.
-Ein grosser Vorteil von Alma gegenüber früherer Systeme ist folgender: <br>
+
+Ein grosser Vorteil von Alma gegenüber früherer Systeme ist folgender: 
+
 ![alma](https://user-images.githubusercontent.com/91015615/140651625-859d8f44-ffc5-4174-96b6-17072a389eb6.JPG)
 
 
@@ -19,6 +21,7 @@ Das URM (Unified Resource Management System) vereint alle benötigten Prozesse z
 
 
 Auch der Aufbau von Alma ist mir nicht neu, dieses Bild verdeutlicht die ganze Struktur sehr gut:
+
 ![almaIZ](https://user-images.githubusercontent.com/91015615/140651639-c5e8c988-9c04-45f5-a851-d6e6226a0b59.JPG)
 
 
@@ -27,7 +30,9 @@ Die Communityzone, CZ, ist die grösste und allumfassendste Zone. Hier werden eR
 Die NZ ist vergleichbar mit dem früheren Katalog swisslib. SLSP als Ganzes gilt in diesem Schema als ein einziger grosser Verbund. Hier wird alles bearbeitet, was für die teilnehmenden Bibliotheken gleichermassen relevant ist, so werden beispielsweise Konsortiallizenzen freigeschaltet, oder auch Open Access Daten eingespielt.<br>
 
 In der IZ finden Prozesse statt, welche nur für die jeweilige Institution relevant ist. Hier werden die erworbenen eRessourcen für den eigenen Verbund/Institution aktiviert, Mitarbeiterrollen, Öffnungszeiten und Etats werden für die teilnehmenden Bibliotheken angepasst. In der IZ ist also das machbar, was wir in der letzten Vorlesung in Koha machen konnten.<br>
+
 Nach dem Theorieteil über SLSP folgte eine Live Demo in Alma und eine strategische Spielerei mit folgenden Resultaten:
+
 ![strategie1](https://user-images.githubusercontent.com/91015615/140651855-2cf1eae8-e0c7-4744-ac69-ca5d1ef3edd0.JPG)
 ![strategie2](https://user-images.githubusercontent.com/91015615/140651851-0ad1ca3a-c17e-434b-954d-fa0f2de10e26.JPG)
 ![strategie3](https://user-images.githubusercontent.com/91015615/140651852-277f6dc8-f261-4631-ae6c-7992c3ea9f98.JPG)
@@ -56,8 +61,8 @@ Die Übung hat (trotz langer Wartezeit) gut funktioniert:<br>
 -	Grundsatz bei archivarischer Erschliessung: Provenienzprinzip (um den Entstehungszusammenhang abzubilden).
 -	Aktuell ist der neue Standard “Records in Contexts” (RiC) in Entwicklung. Dieser berücksichtigt die Linked-Data-Prinzipien.<br>
 
-
 **Was habe ich (noch) nicht verstanden:**
----
+____
+
 
 [^1]: <https://www.youtube.com/watch?v=Y8vOFgG8lo0Y>, abgerufen am 6.11.21
