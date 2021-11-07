@@ -11,9 +11,12 @@ nach ein paar Mal rumpröblen habe ich es dann aber (hoffentlich) doch noch gesc
 
 ![uebung2](https://user-images.githubusercontent.com/91015615/140655893-eac87792-290b-4ed4-9a5a-313b8b4bc948.JPG)
 
+
 ![uebung3](https://user-images.githubusercontent.com/91015615/140655917-e7dda4e4-177f-4e7c-b3d4-53a6e3b75dec.JPG)
 
+
 ![uebung1](https://user-images.githubusercontent.com/91015615/140655941-f749fc5d-b426-44ec-8178-b849262301d5.JPG)
+
 
 Schliesslich lud ich das File hoch und hoffte sehr, dass der Import auch so geschieht, wie ich mir das vorstelle, und tatsächlich: der Job konnte gestartet werden und während er ausgeführt wurde, fühlte ich mich wie Hackerman!
 
@@ -24,6 +27,7 @@ Nachdem der Job beendet war, habe ich im Public Interface gecheckt, ob der Impor
 
 **Export**<br>
 Als zweite Aufgabe mussten wir die erst grad importierten Daten wieder Exportieren und als MARCXML speichern. Ich fand es etwas schwer, die Exportfunktion zu finden, mithilfe des Tipps der Dozenten klappte aber auch das:
+
 ![uebung6](https://user-images.githubusercontent.com/91015615/140655997-8f60bd55-4942-4529-904b-4711ed309d6a.JPG)
  
 
