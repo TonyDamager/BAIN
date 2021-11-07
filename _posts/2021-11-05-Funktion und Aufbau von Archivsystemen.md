@@ -42,7 +42,7 @@ Wie auch im Bibliothekswesen haben sich im Bereich Archiv die Datenstrukturen an
 
 
 Das entsprechende Datenformat im Archivwesen ist die EAD (Encoded Archival Description). 
-Leider hat auch ISAD (G) Grenzen, so sind wegen der eindimensionaler Erschliessung Kontexte nötig, um einzelne Datensätze zu verstehen. Ausserdem ist der Standard aufgrund der Entstehung in den 90er etwas hängengeblieben und enthält keine Vorgaben zur Digitalisierung oder zur digitalen Langzeitarchivierung.
+Leider hat auch ISAD (G) Grenzen, so sind wegen der eindimensionaler Erschliessung Kontexte nötig, um einzelne Datensätze zu verstehen. Ausserdem ist der Standard aufgrund der Entstehung in den 90er etwas hängengeblieben und enthält keine Vorgaben zur Digitalisierung oder zur digitalen Langzeitarchivierung.<br>
 Nach dem Exkurs über ISAD (G) wurden einige Konfigurationen in Archivesspace getätigt und wir sollten versuchen, einen eigenen Datensatz zu erstellen. Die Aufgabe lautete wie folgt: <br>
  ![aufgabenstellungarchiv](https://user-images.githubusercontent.com/91015615/140651837-3f06f216-08be-4779-961c-2e28c832c473.JPG)
 
@@ -55,6 +55,8 @@ Die Übung hat (trotz langer Wartezeit) gut funktioniert:<br>
 -	CDI =  den Begriff habe ich sicher auch schon gehört, aber da bei uns nicht relevant etwas verdrängt. Die CDI ist eine zentrale Datenbank mit 3 Milliarden Datensätzen, kann aktiviert werden um zusätzliche Treffer zu finden (welche aber nicht in der IZ vorhanden sind) -> vorallem für eBooks oder Zitationen hilfreich. Short: eine grosse Sammlung an diversen Ressourcen, auch wenn die betreffende Bibliothek keinen Zugang besitzt, man hat als Nutzer «immerhin» die Referenz darauf [^1]
 -	Grundsatz bei archivarischer Erschliessung: Provenienzprinzip (um den Entstehungszusammenhang abzubilden).
 -	Aktuell ist der neue Standard “Records in Contexts” (RiC) in Entwicklung. Dieser berücksichtigt die Linked-Data-Prinzipien.<br>
+
+
 **Was habe ich (noch) nicht verstanden:**
 ---
 
