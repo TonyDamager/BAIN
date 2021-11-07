@@ -52,12 +52,10 @@ Die Übung hat (trotz langer Wartezeit) gut funktioniert:<br>
 
 
 **Was habe ich neu gelernt (oder wieder neu entdeckt):**
--	CDI =  den Begriff habe ich sicher auch schon gehört, aber da bei uns nicht relevant etwas verdrängt. Die CDI ist eine zentrale Datenbank mit 3 Milliarden Datensätzen, kann aktiviert werden um zusätzliche Treffer zu finden (welche aber nicht in der IZ vorhanden sin) -> vorallem für eBooks oder Zitationen hilfreich. Short: eine grosse Sammlung an diversen Ressourcen, auch wenn die betreffende Bibliothek keinen Zugang besitzt, man hat als Nutzer «immerhin» die Referenz darauf (Quelle: https://www.youtube.com/watch?v=Y8vOFgG8lo0, abgerufen am 6.11.)
+-	CDI =  den Begriff habe ich sicher auch schon gehört, aber da bei uns nicht relevant etwas verdrängt. Die CDI ist eine zentrale Datenbank mit 3 Milliarden Datensätzen, kann aktiviert werden um zusätzliche Treffer zu finden (welche aber nicht in der IZ vorhanden sind) -> vorallem für eBooks oder Zitationen hilfreich. Short: eine grosse Sammlung an diversen Ressourcen, auch wenn die betreffende Bibliothek keinen Zugang besitzt, man hat als Nutzer «immerhin» die Referenz darauf [^1]
 -	Grundsatz bei archivarischer Erschliessung: Provenienzprinzip (um den Entstehungszusammenhang abzubilden).
--	Aktuell ist der neue Standard “Records in Contexts” (RIC) in Entwicklung. Dieser berücksichtigt die Linked-Data-Prinzipien
--	
-
+-	Aktuell ist der neue Standard “Records in Contexts” (RiC) in Entwicklung. Dieser berücksichtigt die Linked-Data-Prinzipien.<br>
 **Was habe ich (noch) nicht verstanden:**
 ---
 
-
+[^1]: <https://www.youtube.com/watch?v=Y8vOFgG8lo0Y>, abgerufen am 6.11.21
