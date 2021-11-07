@@ -22,8 +22,8 @@ Auch der Aufbau von Alma ist mir nicht neu, dieses Bild verdeutlicht die ganze S
 ![almaIZ](https://user-images.githubusercontent.com/91015615/140651639-c5e8c988-9c04-45f5-a851-d6e6226a0b59.JPG)
 
 
-Die Communityzone, CZ, ist die grösste und allumfassendste Zone. Hier werden eRessourcen wie eBook Pakete oder Normdaten eingespielt. Jede Alma Nutzende Bibliothek hat darauf Zugriff und ist hier integriert.
-Die NZ ist vergleichbar mit dem früheren Katalog swisslib. SLSP als Ganzes gilt in diesem Schema als ein einziger grosser Verbund. Hier wird alles bearbeitet, was für die teilnehmenden Bibliotheken gleichermassen relevant ist, so werden beispielsweise Konsortiallizenzen freigeschaltet, oder auch Open Access Daten eingespielt.
+Die Communityzone, CZ, ist die grösste und allumfassendste Zone. Hier werden eRessourcen wie eBook Pakete oder Normdaten eingespielt. Jede Alma Nutzende Bibliothek hat darauf Zugriff und ist hier integriert.<br>
+Die NZ ist vergleichbar mit dem früheren Katalog swisslib. SLSP als Ganzes gilt in diesem Schema als ein einziger grosser Verbund. Hier wird alles bearbeitet, was für die teilnehmenden Bibliotheken gleichermassen relevant ist, so werden beispielsweise Konsortiallizenzen freigeschaltet, oder auch Open Access Daten eingespielt.<br>
 In der IZ finden Prozesse statt, welche nur für die jeweilige Institution relevant ist. Hier werden die erworbenen eRessourcen für den eigenen Verbund/Institution aktiviert, Mitarbeiterrollen, Öffnungszeiten und Etats werden für die teilnehmenden Bibliotheken angepasst. In der IZ ist also das machbar, was wir in der letzten Vorlesung in Koha machen konnten.
 Nach dem Theorieteil über SLSP folgte eine Live Demo in Alma und eine strategische Spielerei mit folgenden Resultaten:
 ![strategie1](https://user-images.githubusercontent.com/91015615/140651855-2cf1eae8-e0c7-4744-ac69-ca5d1ef3edd0.JPG)
