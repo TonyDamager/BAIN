@@ -23,7 +23,8 @@ Schliesslich lud ich das File hoch und hoffte sehr, dass der Import auch so gesc
  ![uebung4](https://user-images.githubusercontent.com/91015615/140655980-628415fc-dce0-4bac-9f83-54afabb614e2.JPG)
 
 
-Nachdem der Job beendet war, habe ich im Public Interface gecheckt, ob der Import auch richtig funktioniert hatte, und siehe da – ich habe eine neue Aufnahme in meinem Archivsystem. Die HTML-Anzeige unterschied sich natürlich ganz klar zur Anzeige in Archivesspace, das XML wurde entsprechend auch für Menschen «lesbar» gemacht.
+Nachdem der Job beendet war, habe ich im Public Interface gecheckt, ob der Import auch richtig funktioniert hatte, und siehe da – ich habe eine neue Aufnahme in meinem Archivsystem. ![uebung5](https://user-images.githubusercontent.com/91015615/140656262-24e51533-4337-452d-8672-ba74abad5927.JPG)<br>
+Die HTML-Anzeige unterschied sich natürlich ganz klar zur Anzeige in Archivesspace, das XML wurde entsprechend auch für Menschen «lesbar» gemacht.
 
 **Export**<br>
 Als zweite Aufgabe mussten wir die erst grad importierten Daten wieder Exportieren und als MARCXML speichern. Ich fand es etwas schwer, die Exportfunktion zu finden, mithilfe des Tipps der Dozenten klappte aber auch das:
