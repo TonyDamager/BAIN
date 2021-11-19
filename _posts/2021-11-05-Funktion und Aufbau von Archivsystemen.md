@@ -9,7 +9,7 @@ Die 4. Vorlesung wurde ein **Gastreferat über ALMA** abgehalten. Nach diesem In
 Als Gastreferentinnen waren Selina Hodel und Charlotte Frauchiger aus dem Team dabei. Das Team eRessourcen ist für die Umsetzung von SLSP an der FHNW zuständig. Dies war für mich insofern überraschend, da bei uns an der ZHB Luzern die IT für die Umsetzung zuständig ist. Der Input war für mich leider nicht sehr bereichernd, da ich täglich mit Alma arbeite. Spannend fand ich allerdings, wie die Konfigurationsoberfläche aussieht, diese wird an meiner Institution ausschliesslich vom Systembibliothekar bearbeitet. 
 
 Alma wurde in der Schweiz im Zuge eines schweizweiten Projektes eingeführt und ist im Winter 2020 live gegangen. Die Swiss Library Service Platform ist als AG aufgebaut und vereint 475 Bibliotheken. SLSP hat die «alten» Bibliotheksverbünde wie Nebis, IDS oder IDS Basel/Bern abgelöst und vereinigt nun die Medien der Verbundsbibliotheken im Katalog «swisscovery» der Firma Primo. 
-Alma ist cloudbasiert, genauso wie Koha. Ex Libris ist Anbieter von Alma. Die cloudbasierte Technologie ermöglicht es Ex Libris, Anpassungen direkt selber und vergleichsweise unkompliziert bei den Bibliotheken einzuspielen -> weil cloudbasiert.
+Alma ist cloudbasiert, genauso wie Koha (Korrektur: Koha ist "nur" webbasiert, aber nicht cloudbasiert!). Ex Libris ist Anbieter von Alma. Die cloudbasierte Technologie ermöglicht es Ex Libris, Anpassungen direkt selber und vergleichsweise unkompliziert bei den Bibliotheken einzuspielen -> weil cloudbasiert.
 
 Ein grosser Vorteil von Alma gegenüber früherer Systeme ist folgender: 
 
