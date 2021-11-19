@@ -36,3 +36,8 @@ Auf den ersten Blick scheint der Export aber recht gut geklappt zu haben, es ist
 Diese Übung war sehr spannend und hat mir gezeigt, wie wichtig Standards und deren Zusammenspiel ist. Der Vergleich EAD zu MARC hat einen schönen Vergleich dargestellt.
 
 ![dumb](https://user-images.githubusercontent.com/91015615/140656005-b50876d9-7985-4110-b972-fa3bccb9eabf.JPG)
+
+
+**Lösung, genannt von Dozenten**
+Die Ansicht in ArchivesSpace enthältmehr Informationen als das exportierte MARCXML. In MARC21 sind nicht für alle archivspezifischen Angaben Felder vorgesehen, so dass einige Angaben nicht übernommen werden können (siehe Mapping-Regeln von ArchivesSpace).
+
