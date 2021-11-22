@@ -17,13 +17,15 @@ Repository-Software<br>
 Eine gute OpenSource Repository Software ist DSpace. Doch was ist überhaupt der Zweck von Repositorien?
 Repositorien wie beispielsweise DSpace stellen «Werkzeuge zur Erfassung, Speicherung und Weiterverbreitung von digitalen Ressourcen zur Verfügung [^2]. Sie sorgen dafür, dass Forschungsinstitutionen ihre Artikel/Forschungsinformationen über ein Repositorium veröffentlichen können (bei der Veröffentlichung von Forschungsinformationen handelt es sich aber eher um CRIS). Diese Art der Veröffentlichung ist vor allem für Open Access ein grosses Thema. Es ist somit möglich, etwas auf dem grünen Weg zu veröffentlichen. Das bedeutet folgendes; wenn ein Artikel bereits in einer konventionellen Zeitschrift veröffentlicht wurde, und es nun auch noch OA veröffentlicht werden soll, ist dies über Institutionsrepositorien gut machbar. Ganz salopp gesagt handelt es sich also um eine Plattform, welche Volltexte (oder Forschungsdaten im Falle von CRIS) sammelt und öffentlich zugänglich macht.<br>
 Ein gut bewährtes Tool ist in der Schweiz Zenodo, was vom CERN in Genf betrieben wird.
-Grundsätzlich muss man in Repositorien – oder zumindest bei denen von Zenodo und DSpace – zuerst eine Community/Repository erstellen und darin können dann Collections erstellt und die Files hochgeladen werden. Natürlich werden dann auch Metadaten vergeben, der Datenstandard in DSpace ist Qualified Dublin Core. Im Unterricht wurde dann zu Übungszwecken eine Sub-Community und eine dazugehörige Collection erstellt. Eine wichtige Funktion von DSpace ist, dass man Einreichungs- und Begutachtungsprozess konfigurieren kann. Das ist für eine Software, welche auf unveröffentlichte Dokumente spezialisiert ist, recht wichtig.
- ![ansichtZenodo](https://user-images.githubusercontent.com/91015615/142933965-61ecff87-15d5-4f7b-a8a2-15b01cc71da8.JPG)
-So sieht die Ansicht auf ein File in Zenodo aus.
-![ansichtDSpace](https://user-images.githubusercontent.com/91015615/142934033-0915da73-7018-4b19-954e-8a59cc439792.JPG)
-...und so ein File auf einem Repositorium mit DSpace.
-Klickt man ein File/Datensatz an, erhält man die Metadaten, plus auch das File an sich.
-![nähereAnsichtDspace](https://user-images.githubusercontent.com/91015615/142934143-7a26a858-43a2-435e-88e8-82d2a951873a.JPG)
+Grundsätzlich muss man in Repositorien – oder zumindest bei denen von Zenodo und DSpace – zuerst eine Community/Repository erstellen und darin können dann Collections erstellt und die Files hochgeladen werden. Natürlich werden dann auch Metadaten vergeben, der Datenstandard in DSpace ist Qualified Dublin Core. Im Unterricht wurde dann zu Übungszwecken eine Sub-Community und eine dazugehörige Collection erstellt. Eine wichtige Funktion von DSpace ist, dass man Einreichungs- und Begutachtungsprozess konfigurieren kann. Das ist für eine Software, welche auf unveröffentlichte Dokumente spezialisiert ist, recht wichtig.<br>
+
+ ![ansichtZenodo](https://user-images.githubusercontent.com/91015615/142933965-61ecff87-15d5-4f7b-a8a2-15b01cc71da8.JPG "So sieht die Ansicht auf ein File in Zenodo aus.")
+
+
+![ansichtDSpace](https://user-images.githubusercontent.com/91015615/142934033-0915da73-7018-4b19-954e-8a59cc439792.JPG "...und so ein File auf einem Repositorium mit DSpace.")
+
+
+![nähereAnsichtDspace](https://user-images.githubusercontent.com/91015615/142934143-7a26a858-43a2-435e-88e8-82d2a951873a.JPG "Klickt man ein File/Datensatz an, erhält man die Metadaten, plus auch das File an sich.")
 
  
 **Was habe ich neu gelernt (oder wieder neu entdeckt):**<br>
