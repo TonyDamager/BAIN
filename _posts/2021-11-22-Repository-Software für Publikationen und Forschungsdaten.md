@@ -9,7 +9,7 @@ Die 5. Vorlesung enthielt wieder einige **Ergänzungen zum Thema Archivsysteme**
 **Um was gings:**<br>
 Zu Beginn haben die Dozenten noch einmal Bezug auf Fragen und die Lerntagebücher genommen. Es bleibt zu hoffen, dass den Kolleginnen und Kollegen nun alles klar ist. Danach stand noch einmal das Thema «Archivsysteme» an, da bei der letzten Vorlesung nicht der ganze Stoff Platz gehabt hatte. 
 Bestandserschliessung ist in Archiven um einiges aufwendiger als in Bibliotheken, das wurde mir erneut klar. Es muss viel mehr Kontext hergestellt werden als bei Bibliotheksmedien, so ist es für Archivalien beispielsweise essentiell, Herkunftsinformationen festzuhalten oder die Entstehungsgeschichte.<br> 
-Marktüberblick
+Marktüberblick<br>
 Archivesspace hat eine grosse Community in den USA, in der Schweiz ist es aber nicht so stark vertreten. In der Schweiz wird vorallem scopeArchiv und CMI AIS benützt, AtoM als Open Source Software steht diesen beiden gegenüber. AtoM wird beispielsweise vom Docuteam für Benutzende aufbereitet. Das Docuteam ist «führender und mit 30 bis 40 Mitarbeitenden einer der grössten schweizerischen Anbieter von Archivdienstleistungen.» (Quelle: https://www.docuteam.ch/). Bei Bibliotheks- und Archivsystemen ist es leider oft so, dass der eigentliche Katalog und dessen Präsentation voneinander losgelöst ist. Frontend und Backend ist oft nicht dieselbe Software, bei Archivsystemen wird beispielsweise auf ePics oder emanuscripta als visual library gesetzt. Wieso ist dies so?
 Als nächstes wurde danach noch einmal auf die Unterschiede zwischen Bibliotheks- und Archivsystemen eingegangen….
 
