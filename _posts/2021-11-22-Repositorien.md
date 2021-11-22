@@ -1,9 +1,12 @@
-
+---
+title: "Übung 1: Import und Export Archivesspace (Archivsysteme)"
+date: 2021-11-22
+---
 
 
 Die 5. Vorlesung enthielt wieder einige Ergänzungen zum Thema Archivsysteme und es gab einen kurzen Marktüberblick. Des Weiteren wurde mit dem Thema Repositorien begonnen, speziell DSpace als Plattform wird unter die Lupe genommen. 
 
-Um was gings:
+**Um was gings:**
 Zu Beginn haben die Dozenten noch einmal Bezug auf Fragen und die Lerntagebücher genommen. Es bleibt zu hoffen, dass den Kolleginnen und Kollegen nun alles klar ist. Danach stand noch einmal das Thema «Archivsysteme» an, da bei der letzten Vorlesung nicht der ganze Stoff Platz gehabt hatte. 
 Bestandserschliessung ist in Archiven um einiges aufwendiger als in Bibliotheken, das wurde mir erneut klar. Es muss viel mehr Kontext hergestellt werden als bei Bibliotheksmedien, so ist es für Archivalien beispielsweise essentiell, Herkunftsinformationen festzuhalten oder die Entstehungsgeschichte. 
 Marktüberblick
@@ -23,3 +26,4 @@ o	Cloudbasiert: Alma, die Besonderheit an diesen Systemen ist; die Software wird
 -	Wegen Rechtemanagement werden zusätzlich zu Collections auch noch Communities erstellt: in der Community wird festgelegt wer Collections verwalten darf
 
 Was habe ich (noch) nicht verstanden:
+-
