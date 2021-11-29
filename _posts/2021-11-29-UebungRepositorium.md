@@ -3,6 +3,7 @@ title: "Übung 2: OAI-PMH Schnittstelle (Repositorien)"
 date: 2021-11-29
 ---
 
+In dieser Übung sollten wir die OAP-PMH Schnittstelle von DSpace aufrufen, um die Metadaten der erstellten Aufnahmen abzuspeichern.
 Die folgende Aufgabe musste erledigt werden: 
 ![übungschnittstelleRepository](https://user-images.githubusercontent.com/91015615/143931016-e7e094b0-522d-41d1-84f7-05b3526750a1.JPG)
 
