@@ -17,6 +17,8 @@ Um die über OAI-PMH angebotenen Daten abzugreifen, braucht es einen Harvester (
 XSLT Crosswalk (Konvertierung von einem Metadatenformat in ein anderes)<br>
 Da es ja verschiedene Metadatenformate gibt, muss es irgendwie möglich sein, diese untereinander anzugleichen. Als Crosswalk bezeichnet man, wenn die Interoperabilität zwischen verschiedenen Metadatenforamten erleichtert wird. Sie dienen als Grundlage für das Sammeln von Metadaten und den Austausch von Datensätzen (Sprichword Harvesting) [^1]. Der “Crosswalk” beinhaltet also Regeln, wie Elemente einander zugeordnet werden (= Mapping). Trotz Crosswalks sind aber die Mappings nicht immer verlustfrei. 
 
+![marcedit](https://user-images.githubusercontent.com/91015615/144753980-ee2eaae4-6fcd-4d92-b144-63ac9c08c33a.JPG)
+MarcEdit kann mit XSLT verwendet werden, und kann fürs Mapping(??) benutzt werden. Es ist eine Software zur Bearbeitung von Metadaten (Erstellung und Bearbeitung).
 
 **Was habe ich neu gelernt (oder wieder neu entdeckt):**
 -	Die Funktionsweise von SRU/Z39.50 konnte mir klarer gemacht werden
@@ -24,7 +26,7 @@ Da es ja verschiedene Metadatenformate gibt, muss es irgendwie möglich sein, di
 -	VuFind ist ein Discoverysystem und der Harvester wird mit dem Terminal bedient (hat kein anders Interface) 
 
 **Was habe ich (noch) nicht verstanden:**
-
+- Ist marcedit fürs Mapping ?
 
 
 [^1]: <https://guides.lib.utexas.edu/metadata-basics/crosswalks>, abgerufen 5.12.21
