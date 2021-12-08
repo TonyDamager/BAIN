@@ -17,16 +17,17 @@ Der Zweck von OpenRefine ist auf deren eigenen Website wie folgt beschrieben:
 Es ermöglicht, eigene Daten mit externen abzugleichen und Daten aus diesen externen Datenbanken zu übernehmen. Das Tool wird lokal installiert und dann via Browser darauf zugegriffen.<br>
 Vorallem Tabellendaten (bspw. csv) werden von OpenRefine unterstützt, aber auch Austauschformate. Marcedit kann helfen, dass MARCdaten besser verarbeitet werden können, was für die Bibliotheksarbeit natürlich essentiell ist.
 
-Für was eignet sich OpenRefine:
-•	Exploration von Datenlieferungen
-•	Vereinheitlichung und Bereinigung (zur Datenqualität in der Praxis siehe Präsentation von Peter Király “Validating 126 million MARC records”) -> Daten sind also nicht so «sauber» wie Bibliothekare immer meinen
-•	Abgleich mit Normdaten (“Reconciliation”) in Wikidata, GND und VIAF
-•	Für lokalen Einsatz ausgelegt (Installation auf Webservern und Automatisierung möglich, aber nur mit Zusatzsoftware)
+Für was eignet sich OpenRefine:<br>
+-	Exploration von Datenlieferungen
+- Vereinheitlichung und Bereinigung (zur Datenqualität in der Praxis siehe Präsentation von Peter Király “Validating 126 million MARC records”) -> Daten sind also nicht so «sauber» wie Bibliothekare immer meinen
+-	Abgleich mit Normdaten (“Reconciliation”) in Wikidata, GND und VIAF
+-	Für lokalen Einsatz ausgelegt (Installation auf Webservern und Automatisierung möglich, aber nur mit Zusatzsoftware)
 
  
-Praktisches Arbeiten mit OpenRefine
-Um mit OpenRefine zu arbeiten, mussten wir das Tool wieder installieren. Da bereits die vorherigen Aufgaben in der Shell sehr gut funktioniert haben, bin ich mega motiviert und es macht sogar fast Spass, in der Shell zu arbeiten. Die Dozierenden haben also schon mindestens ein Ziel für mich erreicht; den Schaden aus ARIS wieder etwas gerade zu biegen.
+Praktisches Arbeiten mit OpenRefine<br>
+Um mit OpenRefine zu arbeiten, mussten wir das Tool wieder installieren. Da bereits die vorherigen Aufgaben in der Shell sehr gut funktioniert haben, bin ich mega motiviert und es macht sogar fast Spass, in der Shell zu arbeiten. Die Dozierenden haben also schon mindestens ein Ziel für mich erreicht; den Schaden aus ARIS wieder etwas gerade zu biegen.<br>
 Die Arbeit mit dem Tool ist ein bisschen wie Excel, allerdings viel krasser; man kann filtern und sortieren, Daten können «gemergt» und verändert werden, Daten werden vereinigt mit anderen Daten (reconcile). Das passiert beispielsweise, wenn man aus Wikidata Informationen zieht und zu einem Zeitschriftentitel hinzugefügt (anhand der ISSN)-> sehr beliebte Funktion von Openrefine.
+
 Nach einer Theorie-Session hat das praktische Arbeiten in OpenRefine angefangen. Hier ein paar Eindrücke:
 
 
