@@ -29,6 +29,13 @@ Um mit OpenRefine zu arbeiten, mussten wir das Tool wieder installieren. Da bere
 Die Arbeit mit dem Tool ist ein bisschen wie Excel, allerdings viel krasser; man kann filtern und sortieren, Daten können «gemergt» und verändert werden, Daten werden vereinigt mit anderen Daten (reconcile). Das passiert beispielsweise, wenn man aus Wikidata Informationen zieht und zu einem Zeitschriftentitel hinzugefügt (anhand der ISSN)-> sehr beliebte Funktion von Openrefine.
 
 Nach einer Theorie-Session hat das praktische Arbeiten in OpenRefine angefangen. Hier ein paar Eindrücke:
+![openrefine1](https://user-images.githubusercontent.com/91015615/145261922-99a8158b-7463-4e63-95ab-28bc98ee9ab8.JPG "Einsicht in die Filter in OpenRefine: Man sieht hier sehr gut, dass die Daten unsauber sind. Sprachen wurden teilweise abgekürzt oder ausgeschrieben. Diese können aber ziemlich einfach für alle Werte in "Language" angepasst werden.")
+
+![openrefinekolummne erstellen nur spalte0](https://user-images.githubusercontent.com/91015615/145263296-676cc2c2-c7ae-4506-8ab9-8b6f60637348.JPG "bei OpenRefine kommen potenzielle Coding-Skills zum Tragen. Das , veranlasst, dass ab der ersten (0ten) Tabelle mit einem Komma gesplitettet wird.")
+
+![reconcileopenrefine](https://user-images.githubusercontent.com/91015615/145263838-8ba8c976-da38-4184-a083-74237876d399.JPG "Der Reconcile-Vorgang. Man versucht hier, mit dem Anwählen von ISSN, dass man die Spalte "Journal" mit Wikidata ergänzt. Die Daten werden anhand passender ISSN gematcht." )
+
+![openrefine nach reconcile](https://user-images.githubusercontent.com/91015615/145264200-a3a4ac60-0da9-4000-9adb-7bba05a1b715.JPG "Ergebnis vom Reconcile. Daten aus Wikidata wurden ergänzt.")
 
 
 
