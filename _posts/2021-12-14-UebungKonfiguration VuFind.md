@@ -4,6 +4,8 @@ date: 2021-12-14
 ---
 
 Ich konnte die Installation von VuFind gut fertigstellen und auch der Import der 250 Daten hat reibungslos geklappt. Im Anschluss musste noch folgende Aufgabe erledigt werden: <br>
+
+
 ![ÜbungVuFind](https://user-images.githubusercontent.com/91015615/146016790-c09ec66e-2595-43d6-8072-efea34758d26.JPG)
 
 
