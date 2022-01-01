@@ -1,5 +1,5 @@
 ---
-title: "Tag 8: Am Ende gibt wird alles eins."
+title: "Tag 8: Am Ende wird alles eins."
 date: 2021-12-17
 ---
 
