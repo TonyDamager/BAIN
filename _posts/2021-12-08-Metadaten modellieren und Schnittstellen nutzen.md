@@ -1,5 +1,5 @@
 ---
-title: "Tag 6: Metadaten und Schnittstellen - Messy Data in Bibliotheken??!"
+title: "Tag 7: Metadaten und Schnittstellen - Messy Data in Bibliotheken??!"
 date: 2021-12-08
 ---
 
