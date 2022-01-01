@@ -11,7 +11,7 @@ Das Thema «Metadaten modellieren» wurde dieses Mal abgeschlossen. Wir haben ge
 Solr <br>
 Solr ist mir völlig unbekannt. Die «open-source enterprise-search platform, written in Java» wird beispielsweise auch bei Netflix (bei der Suche) verwendet, besteht also nicht nur im Bibliothekskontext. Solr ist die führende Open Source Installation für Discovery-Systeme und man kann es ein bisschen wie der Motor eines Onlinekatalogs anschauen. VuFind ist in dieser Metapher dann der schnittige Sportwagen, welchen man als Autoenthusiast sehen und bewundern kann. Solr, bzw. der Motor bringt das Ganze aber zum Laufen. Eine Alternative zu Solr wäre beispielsweise «elasticsearch». Diese ist stärker in visueller Darstellung. 
 Solr selbst ist ausgestattet mit einer eigenen Suchoberfläche, diese ist aber nicht für Nutzende als Rechercheoberfläche geeignet. Sie wird nur für interne Recherchen verwendet (beispielsweise von den Admins).<br>
-<img width="533" alt="solradminisbn" src="https://user-images.githubusercontent.com/91015615/147853413-a6bfd320-87eb-40ee-96c8-b9363483ba63.PNG">
+
 
 
 Solr = Suchindex und <br>
@@ -19,19 +19,20 @@ SQL = Datenbank<br>
 
  ![solrsql](https://user-images.githubusercontent.com/91015615/147853376-c3583aa9-fdf8-4fcf-acf9-378b5b267447.png)
  
-Solr ziemlich flach aufgebaut, was es schneller und besser durchsuchbar macht. Flach bedeutet, dass die Daten eine Art Liste von Feldern mit dazugehörigen Werten darstellen. Bei SQL kann man Daten dafür möglichst effizient ablegen (arbeitet mit Verknüpfungen -> relationale Datenbank)<br>
+Solr ist ziemlich flach aufgebaut, was es schneller und besser durchsuchbar macht. Flach bedeutet, dass die Daten eine Art Liste von Feldern mit dazugehörigen Werten darstellen. Bei SQL kann man Daten dafür möglichst effizient ablegen (arbeitet mit Verknüpfungen -> relationale Datenbank)<br>
 Solr ist «intelligenter» (durch lexikalische Suche) -> kann in Anfragen auch interpretieren, Verben können auf Grundform zurückgeführt werden, während bei SQL alles wortwörtlich sein muss. SQL vergleicht einfach die Werte der Anfrage mit den hinterlegten Werten. Solr kann da Werte auch interpretieren.
 Nach diesem sehr theoretischen und technischen Input haben wir Solr mal genauer angeschaut und haben ins Dashboard gewechselt.
- 
+<img width="533" alt="solradminisbn" src="https://user-images.githubusercontent.com/91015615/147853413-a6bfd320-87eb-40ee-96c8-b9363483ba63.PNG">
+
 Hier sind lauter technische Angaben ersichtlich (Version, Startdatum). Solr arbeitet mit Core-Indizes, in welchen man Konfigurationen für einzelne Felder sieht (Biblio ->> was für Parameter hat man z.B. für ISBN erstellt). Auch findet man in diesem Dashboard die Suchfunktion in Solr. Dazu haben wir eine Übung gemacht;
 
 <br>
-Es galt, die Suchergebnisse in Solr, der Shell und VuFind zu vergleichen. Wir haben folgende Unterschiede entdecken können:
-•	Gleich viele Treffer 
-•	VuFind hat klassische OPAC-Ansicht, Solr Metadaten-Ansicht (Vermutung JSON?)
-•	Bei Vufind muss für Detailangaben noch auf das entsprechende Exemplar geklickt werden, bei Solr sind diese bereits angezeigt -> FuFind «filtert» schon unwichtige Angaben für Nutzende weg
-•	Verlinkungen sind im VuFind mit Hyperlink direkt anklickbar, im Solr ist nur Link hinterlegt, kann aber nicht angeklickt werden
-•	Im Terminal werden die gleichen Treffer angezeigt wie im Solr Admin, aber schlecht leserlich
+Es galt, die Suchergebnisse in Solr, der Shell und VuFind zu vergleichen. Wir haben folgende Unterschiede entdecken können:<br>
+ •	Gleich viele Treffer<br> 
+ •	VuFind hat klassische OPAC-Ansicht, Solr Metadaten-Ansicht (Vermutung JSON?)<br>
+ •	Bei Vufind muss für Detailangaben noch auf das entsprechende Exemplar geklickt werden, bei Solr sind diese bereits angezeigt -> FuFind «filtert» schon unwichtige Angaben für Nutzende weg<br>
+ •	Verlinkungen sind im VuFind mit Hyperlink direkt anklickbar, im Solr ist nur Link hinterlegt, kann aber nicht angeklickt werden<br>
+ •	Im Terminal werden die gleichen Treffer angezeigt wie im Solr Admin, aber schlecht leserlich<br>
 
 Wichtig erscheint mir, dass man im Terminal (im Unterschied zu VuFind) herauslesen kann, wie die Felder geratet werden. Das war sehr spannend, hier einen Einblick in das Thema Rating zu erhalten!<br>
  <img width="455" alt="ranking_solr" src="https://user-images.githubusercontent.com/91015615/147853399-6fa29ff5-d937-4ff6-abb4-e9dca26ef0d7.PNG">
@@ -50,10 +51,12 @@ Da ich während der Vorlesung unterwegs war, habe ich nicht auf meine eigenen Da
 Somit sind wir dann auch schon am Ende des Schaubilds aus der ersten Einheit angekommen 😊
 
 Was haben wir nun alles gemacht:<br>
-Koha und Archivesspace selber installiert und für Dspace haben wir eine Demo verwendet
--> dort haben wir dann via OAI-PMH Schnittstelle und mit dem Harvester Daten rausgezogen
--> mit MARCedit wurden dann die verschiedenen Formate aus den verschiedenen Systemen vereinheitlicht
--> all die Daten haben wir dann mit einem Import-Script von VuFind in Solr, beziehungsweise VuFind geladen
+Koha und Archivesspace selber installiert und für Dspace haben wir eine Demo verwendet<br>
+-> dort haben wir dann via OAI-PMH Schnittstelle und mit dem Harvester Daten rausgezogen <br>
+-> mit MARCedit wurden dann die verschiedenen Formate aus den verschiedenen Systemen vereinheitlicht<br>
+-> all die Daten haben wir dann mit einem Import-Script von VuFind in Solr, beziehungsweise VuFind geladen<br>
+
+![bild1](https://user-images.githubusercontent.com/91015615/147853497-dac2592d-df78-4a34-af01-2b309a82def1.png)
 
 Das Ganze war also eigentlich überhaupt keine Hexerei! Sehr geholfen haben jeweils die Tutorials der beiden Dozenten und das Bereitstellen der Shell-Befehle. Danke dafür.
 
