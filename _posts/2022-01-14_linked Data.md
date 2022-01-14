@@ -33,6 +33,7 @@ Bei BIBFRAME ist das dann aber nur noch 1x hinterlegt (bei Instance) und man ver
  <img width="357" alt="bibframe" src="https://user-images.githubusercontent.com/91015615/149552189-fd47f58c-28c1-4c03-9a96-c8d5b00312ec.PNG">
 Das Model Bibframe, man sieht es ist sehr ähnlich wie FRBR, dort gibt es aber noch die Instanz "Expression", mit welchen man beispielsweise Ausgaben von anderen Sprachen oder so darstellen kann.
 
+
 RiC<br>
 RiC ist Records in Context und wird zukünftig eine grosse Rolle in Archiven spielen. Man wird auch hier Entitäten in Kontexte setzen. RiC führt zu einer erheblichen Veränderung in der eher rückständigen Erschliessungspraxis der Archive (was mit Bibframe bei Bibliotheken durch die Einführung von RDA und FRBR weniger der Fall ist. 
 
