@@ -1,11 +1,11 @@
 ---
-title: "Tag 9: xy"
+title: "Tag 9: Linked Data und ein toller Katalog"
 date: 2022-01-14
 ---
 
 Die 9. Vorlesung ist gleichzeitig auch die letzte. Sie beginnt mit einer Wiederholung und **Nachträgen zum Thema Discoverysysteme** und vereinzelten **Praxiseinblicken**. Das letzte Thema war dann schliesslich **«Linked Data»**.
 
-Um was gings:
+**Um was gings:**
 Zu Beginn sind wir mit einem kurzen Marktüberblick zu Discovery-Systemen gestartet, inklusive einigen Präzisierungen. 
 Discoverysysteme setzen sich normalerweise aus zwei Aspekten zusammen; es gibt einerseits ein Interface, also das, was schliesslich die Nutzenden sehen, und den Discovery Index. Im Discovery Index sind die Daten, welche im Interface angezeigt werden, hinterlegt. 
 Leider wird die Diversität der Discoverysysteme immer schlechter, was wir aber bereits in der 3. Vorlesung heraushören konnte. In der Kurzfassung ist hier zu sagen, dass wahrscheinlich «Folio», von EBSCO in den nächsten Jahren wichtiger werden könnte, da es das Monopol von ExLibris, bzw. Clarivate etwas untergraben könnte. 
@@ -19,7 +19,7 @@ Ich persönlich empfinde es als unglaubliche Stärke des Systems, dass ein gross
 <img width="840" alt="katalog eintrag" src="https://user-images.githubusercontent.com/91015615/149552957-0859e564-09f2-426a-ab63-4e96714c3995.PNG">
 
 
-Die Normdaten werden so schon in der Schnellsuche integriert und angezeigt, falls vorhanden. Die ausgewählte Entität kann dann direkt übernommen werden und man erhält dann wirklich die mit der Entität erschlossenen Treffer! Auch werden Daten aus Wikidata einbezogen, was direkt wieder eine Brücke zu unserem Unterricht schlägt (mit der Reconcilation). 
+Die Normdaten werden so schon in der Schnellsuche integriert und angezeigt (siehe Bild oben), falls vorhanden. Die ausgewählte Entität kann dann direkt übernommen werden und man erhält dann wirklich die mit der Entität erschlossenen Treffer! Auch werden Daten aus Wikidata einbezogen (falls vorhanden), was direkt wieder eine Brücke zu unserem Unterricht schlägt (mit der Reconcilation). Oder es werden Weiterleitungen zu anderen Webeinträgen angezeigt.
 <img width="848" alt="blobel treffer" src="https://user-images.githubusercontent.com/91015615/149552997-f98eae93-3b8c-4905-ad5d-999c07082a3a.PNG">
 
 Ich bin mega begeistert von diesem Katalog und meine Gedanken bei der Präsentation war «Supergeiler Katalog». Da geht einem das Normenherz auf wenn man sieht, dass man daraus sehr viel rausholen kann.
