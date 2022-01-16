@@ -23,7 +23,7 @@ Hier folgt eine ganz kurze Zusammenfassung aller wichtigen Erkenntnisse:<br>
 
 Also wenn es soweit kommt, dass mich jemand fragt, wie denn so ein Bibliothekskatalog funktioniert, dann wird ich das sicher umreissen können und so tun als wär ich der Vollprofi (aber da meine Freunde das auch nicht sind, klingt es sicher voll klug was ich dann erzähle).
 Ganz stark abgekürzt würd ich die Frage, wie man all die Daten in das Discoverysystem kriegt, wie folgt beantworten:
-Man sammelt die Daten aus einem System, sei es nun ein Bibkatalog, eine Archivdatenbank oder ein Repositorium mittels einem Harvester ein. Danach kann man diese exportieren und homogenisieren, deswegen hat man ja Standards. Möchte man all diese Daten nun in einem Discoverysystem oder einem OPAC darstellen, lädt man diese in einen Suchindex (z.B. Solr), auf welchen dann ein Interface wie z.B. VuFind zugreift und die Daten den Nutzenden präsentiert.
+Man sammelt die Daten aus einem System, sei es nun ein Bibkatalog, eine Archivdatenbank oder ein Repositorium mittels einem Harvester ein. Danach kann man diese exportieren und homogenisieren, deswegen hat man ja Standards. Diese Daten müssen dann noch in ein einheitliches Datenformat transformiert werden (MARC21-XML). Möchte man all diese Daten nun in einem Discoverysystem oder einem OPAC darstellen, lädt man diese in einen Suchindex (z.B. Solr), auf welchen dann ein Interface wie z.B. VuFind zugreift und die Daten den Nutzenden präsentiert.
 
 **Modul erfolgreich abschliessen**
 
